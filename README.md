@@ -13,8 +13,7 @@ Welcome to the ExploreQuest! This project is a simple website that showcases a c
    - Image slider for a dynamic viewing experience.
 
 3. **Contact Page:**
-   - Form for users to get in touch.
-   - Basic contact information.
+   - Basic contact options.
 
 ## Installation
 
